@@ -1,4 +1,18 @@
-# ⚡ Ollama Jarvis Pro
+# Ollama Jarvis Pro
+
+
+[![it](https://img.shields.io/badge/lang-it-green.svg)](https://github.com/SalvatoreITA/telegram-custom/blob/main/README_it.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/SalvatoreITA/telegram-custom/blob/main/README.md)
+
+[![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg)](https://github.com/hacs/integration)
+[![version](https://img.shields.io/badge/version-1.0.4-blue.svg)]()
+[![maintainer](https://img.shields.io/badge/maintainer-Salvatore_Lentini_--_DomHouse.it-green.svg)](https://www.domhouse.it)
+
+<div align="center">
+  <img src="https://github.com/SalvatoreITA/Telegram-Custom/blob/main/icon.png?raw=true" alt="Logo" width="150">
+</div>
+
+# 🇮🇹 Ollama Jarvis Pro
 
 **Ollama Jarvis Pro** è un componente personalizzato per **Home Assistant** progettato per integrare l'intelligenza artificiale locale (Ollama) con prestazioni reali da produzione.
 
