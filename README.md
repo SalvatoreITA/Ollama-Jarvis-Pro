@@ -1,4 +1,4 @@
-# Ollama Jarvis Pro
+# Ollama Jarvis Pro Client
 
 [![it](https://img.shields.io/badge/lang-it-green.svg)](https://github.com/SalvatoreITA/ollama_jarvis_pro/blob/main/README_it.md)
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/SalvatoreITA/ollama_jarvis_pro/blob/main/README.md)
