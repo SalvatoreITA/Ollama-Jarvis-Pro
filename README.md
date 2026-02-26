@@ -115,7 +115,7 @@ L'utente si assume la piena responsabilità per l'utilizzo di questo componente.
 * Si raccomanda di testare sempre il funzionamento in un ambiente controllato prima di un utilizzo esteso.
 
 ## ☕ Supporta il Progetto
-Ogni piccolo supporto fa un'enorme differenza: mi aiuta a mantenere vivo l'entusiasmo e mi stimola a creare e condividere nuove soluzioni per la community. Grazie di cuore per il tuo aiuto! ❤️🚀
+Ogni piccolo supporto fa un'enorme differenza: mi aiuta a mantenere vivo l'entusiasmo e mi stimola a creare e condividere nuove soluzioni per la community. Grazie di cuore per il tuo aiuto! 🚀
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/salvatore_dh)
 
