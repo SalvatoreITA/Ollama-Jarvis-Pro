@@ -1,0 +1,59 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Ollama Jarvis Pro",
+        "description": "Speed settings are under Configure after setup.",
+        "data": {
+          "title": "Name",
+          "url": "URL Ollama",
+          "model": "Model"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Cannot connect to Ollama",
+      "model_not_found": "Model not found on Ollama (run 'ollama pull' first)"
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Jarvis Pro",
+        "data": {
+          "url": "URL Ollama",
+          "model": "Model",
+          "local_first": "HA local intents first",
+          "keep_alive": "Keep alive",
+          "warmup": "Warmup",
+          "num_ctx": "Context (num_ctx)",
+          "num_thread": "Thread CPU",
+          "max_tokens": "Max token",
+          "temperature": "Temperature",
+          "max_devices": "Max devices",
+          "include_sensors": "Include sensors",
+          "history_turns": "Conversation memory (turns)",
+          "disable_thinking": "Disable thinking",
+          "timeout": "Timeout",
+          "system_prompt": "System prompt"
+        },
+        "data_description": {
+          "local_first": "Try HA native intents first (instant), use Ollama only when HA doesn't understand. Don't also enable 'Prefer handling commands locally'.",
+          "keep_alive": "Minutes in RAM. -1 = always loaded (recommended).",
+          "warmup": "Preload model and prompt into Ollama's cache at startup and when entities change.",
+          "num_ctx": "Context window. Use the same value in every app using this model, or Ollama reloads it.",
+          "num_thread": "CPU threads. 0 = auto. On hybrid Intel CPUs try the number of performance cores.",
+          "max_tokens": "Max response length. A tool call uses about 50.",
+          "max_devices": "Max entities in the prompt (controllable devices first).",
+          "include_sensors": "Include exposed sensors to answer questions.",
+          "history_turns": "Remembered turns for follow-ups. 0 = none.",
+          "disable_thinking": "Disable reasoning on thinking models."
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Cannot connect to Ollama",
+      "model_not_found": "Model not found on Ollama (run 'ollama pull' first)"
+    }
+  }
+}
