@@ -1,0 +1,16 @@
+{
+  "domain": "ollama_jarvis_pro",
+  "name": "Ollama Jarvis Pro",
+  "codeowners": [
+    "@SalvatoreITA"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/SalvatoreITA/Ollama-Jarvis-Pro",
+  "integration_type": "service",
+  "iot_class": "local_polling",
+  "issue_tracker": "https://github.com/SalvatoreITA/Ollama-Jarvis-Pro/issues",
+  "requirements": [
+    "ollama>=0.4.0"
+  ],
+  "version": "2.0.3"
+}
